@@ -8,7 +8,7 @@
     - name: Email
       value: qsc4977@gmail.com
 
-- title: Education
+- title: Education & Experience
   type: time_table
   contents:
     - title: Postdoctoral Fellow
