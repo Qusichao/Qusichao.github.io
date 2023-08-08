@@ -2,32 +2,40 @@
   type: map
   contents:
     - name: Full Name
-      value: Qu Sichao
+      value: Sichao QU
     - name: Languages
       value: English, Chinese
     - name: Email
-      value: qsc4977@gmail.com
+      value: qsc4977@gmail.com & qusichao@hku.hk
 
-- title: Education & Experience
+- title: Experience
   type: time_table
   contents:
     - title: Postdoctoral Fellow
-      institution:  Mechanical Engineering, HKU, Hong Kong SAR
-      year: 2023
+      institution:  Mechanical Engineering, The University of Hong Kong (HKU)
+      year: 2023.2 - Now
       description:
         - <u>Lab:</u> Jockey-Club STEM Lab for Scalable and Sustainable Photonic Manufacturing
-        - <u>Advisor:</u> Prof. Nicholas Fang
-       
-    - title: PhD
-      institution: Physics, HKUST, Hong Kong SAR
+        - <u>Advisor:</u> Prof. Nicholas X. Fang
+
+    - title: Postdoctoral Fellow
+      institution:  Physics, Hong Kong University of Science and Technology (HKUST)
+      year: 2022.6 - 2023.1
+      description:
+        - <u>Projects:</u> Joint industrial program with AMG company.
+        - <u>Advisor:</u> Prof. Ping Sheng and Dr. Min Yang
+        
+- title: Education    
+    - title: PhD (with Redbird Honor)
+      institution: Physics, Hong Kong University of Science and Technology (HKUST)
       year: 2022
       description:
         - <u>Research Direction:</u> Wave Absorption Metamaterials
         - <u>Advisor:</u>  Prof. Ping Sheng
-        - <u>Core Courses GPA:</u> 4.2/4.3
+        - <u>Courses GPA:</u> 4.2/4.3
        
     - title: Bachelor
-      institution: Physics, Nanjing University, Nanjing, China
+      institution: Physics, Nanjing University (NJU), Nanjing, China
       year: 2019
       description:
         - <u>Core Physics GPA:</u> 91.3/100
@@ -37,7 +45,7 @@
   type: time_table
   contents:
     - title:  Research Assistant
-      institution: HKUST, Hong Kong SAR
+      institution: Hong Kong University of Science and Technology (HKUST)
       year: Nov 2018 
       description:
         - For the Completion of Undergraduate Thesis 
@@ -46,14 +54,14 @@
 
 
     - title:  Applied Science Program
-      institution: University of British Columbia, Vancouver, Canada
+      institution: University of British Columbia (UBC), Vancouver, Canada
       year: JULY 2017
       description:
         - Electrical and Computer Engineering
         - For the Completion of the Course on <u>Introduction to Algorithms</u>.
 
     - title:  Summer School for Elite Students
-      institution: Peking University, Beijing, China
+      institution: Peking University (PKU), Beijing, China
       year: JULY 2016
       description:
         - Physics Department
@@ -74,7 +82,6 @@
       items:
       -  First Prize of Elite Program from Physics Department, Nanjing University 
 
-    
     - year: Dec 2016
       items:
       -  National Inspirational Scholarship, Nanjing University 
@@ -89,11 +96,12 @@
 - title: Computer Skills
   type: list
   contents:
-    - <u>Advanced Knowledge:</u> MATLAB, COMSOL, COMSOL with MATLAB livelink
-    - <u>Intermediate Knowledge:</u> LATEX, Mathematica, CST, Python
+    - <u>Advanced Knowledge:</u> MATLAB, COMSOL Multiphysics, LATEX
+    - <u>Intermediate Knowledge:</u> Python, Mathematica, CST, COMSOL with MATLAB livelink
+    - <u>Basic Knowledge:</u> Adobe Illustrator, FreeCAD, SolidWorks
 
 
-- title: Teaching (TAed at HKUST)
+- title: Teaching (as Teaching Assistant at HKUST)
   type: list
   contents:
     - PHYS1003 - Energy and Related Environmental Issues (2021-22 FALL)
