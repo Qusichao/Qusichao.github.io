@@ -17,13 +17,15 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-Sichao Qu is a URC Postdoctoral Fellow in the Department of Mechanical Engineering at The University of Hong Kong.
+Dr. Sichao Qu is a URC Postdoctoral Fellow in the Department of Mechanical Engineering at The University of Hong Kong.
 
 Sichao's main research interest is in <mycss>metamaterials</mycss> and general <mycss>wave physics</mycss>.
 
-Before that, his research field was mainly absorbing metamaterials, and he systematically explored electromagnetic wave, underwater sound, airborne sound and pushed the performance of related absorption devices to the limit. Currently, his research activities extend to the fundamental theory of metamaterials and the applications of customizable acoustic metamaterials. He is particularly interested in the relationship between the structure of metamaterials and their broadband wave reponse, as well as discovering underlying physical constraints. Meanwhile, the rapid recent developments in artificial intelligence are also bringing new possibilities for the design of metamaterials. So, he is keeping a close eye on and exploring 'AI for Metamaterials'.
+His research field during the PhD study was mainly wave-absorbing metamaterials in the cases of electromagnetic waves, underwater and airborne acoustic waves. These works have been instrumental in advancing the fields of wave absorption and are poised to have a widespread impact on the practical applications of microwave and underwater functional devices. The importance of the contributions lies in his pursuit of optimizing the performance of absorbing devices toward the boundaries of physical limitations.
 
-He is mainly fascinated by topics that have the following characteristics:
+Currently, his research activities extend to the fundamental theory of modeling metamaterials and the applications of customizable acoustic metamaterials. He is particularly interested in the relationship between the structure of metamaterials and their broadband wave reponse, as well as discovering underlying physical constraints. Meanwhile, he is keeping a close eye on the rapid recent developments in artificial intelligence which may bring new possibilities for the design of metamaterials. In the future, his research may expand to include Broadband Noise Control, Homogenization Theory of Metamaterials, Architectural Acoustics, Non-Hermitian Physics, Disordered and Inhomogeneous Media, and Ultrasonic Imaging.
+
+As for research taste, he is particularly fascinated by topics with following characteristics:
 1. Renewing physical understanding,
 2. Advancing analytical/numerical methods,
 3. Holding strong application potential.
