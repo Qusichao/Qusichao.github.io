@@ -25,7 +25,7 @@ His doctoral research focused on the study of wave-absorbing metamaterials in a 
 
 Currently, his research activities extend to the fundamental theory of modeling metamaterials and the applications of customizable metamaterials, with the focus on identifying structure-response relation for metamaterials, as well as discovering underlying physical constraints. Meanwhile, he is keeping a close eye on the rapid recent developments in artificial intelligence which may bring new possibilities for the design of metamaterials. In the future, his research may expand to include Broadband Noise Control, Homogenization Theory of Metamaterials, Architectural Acoustics, Non-Hermitian Physics, Disordered and Inhomogeneous Media, and Ultrasonic Imaging.
 
-As for research taste, he is particularly fascinated by topics with following characteristics:
+As for research taste, he is particularly fascinated by topics with following features
 1. Renewing physical understanding,
 2. Advancing analytical/numerical methods,
 3. Holding strong application potential.
