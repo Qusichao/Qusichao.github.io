@@ -25,7 +25,9 @@
         - <u>Projects:</u> Joint industrial program with AMG company.
         - <u>Advisor:</u> Prof. Ping Sheng and Dr. Min Yang
         
-- title: Education    
+- title: Education
+  type: time_table
+  contents:
     - title: PhD (with Redbird Honor)
       institution: Physics, Hong Kong University of Science and Technology (HKUST)
       year: 2022
