@@ -6,20 +6,20 @@
     - name: Languages
       value: English, Chinese
     - name: Email
-      value: qsc4977@gmail.com & qusichao@hku.hk
+      value: qsc4977@gmail.com; qusichao@hku.hk
 
 - title: Experience
   type: time_table
   contents:
-    - title: Postdoctoral Fellow
-      institution:  Mechanical Engineering, The University of Hong Kong (HKU)
-      year: 2023.2 - Now
+    - title: URC Postdoctoral Fellow
+      institution:  Mechanical Engineering, The University of Hong Kong (HKU), Hong Kong, China
+      year: 2023.2 - Current
       description:
         - <u>Lab:</u> Jockey-Club STEM Lab for Scalable and Sustainable Photonic Manufacturing
         - <u>Advisor:</u> Prof. Nicholas X. Fang
 
     - title: Postdoctoral Fellow
-      institution:  Physics, Hong Kong University of Science and Technology (HKUST)
+      institution:  Physics, Hong Kong University of Science and Technology (HKUST), Hong Kong, China
       year: 2022.6 - 2023.1
       description:
         - <u>Projects:</u> Joint industrial program with AMG company.
@@ -29,7 +29,7 @@
   type: time_table
   contents:
     - title: PhD (with Redbird Honor)
-      institution: Physics, Hong Kong University of Science and Technology (HKUST)
+      institution: Physics, Hong Kong University of Science and Technology (HKUST), Hong Kong, China
       year: 2022
       description:
         - <u>Research Direction:</u> Wave Absorption Metamaterials
@@ -47,7 +47,7 @@
   type: time_table
   contents:
     - title:  Research Assistant
-      institution: Hong Kong University of Science and Technology (HKUST)
+      institution: Hong Kong University of Science and Technology (HKUST), Hong Kong, China
       year: Nov 2018 
       description:
         - For the Completion of Undergraduate Thesis 
