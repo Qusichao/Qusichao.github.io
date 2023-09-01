@@ -17,7 +17,7 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-Dr. Sichao Qu is a URC Postdoctoral Fellow at the Department of Mechanical Engineering of The University of Hong Kong.
+Dr. Sichao Qu is a Postdoctoral Fellow at the Department of Mechanical Engineering of The University of Hong Kong.
 
 Sichao's main research interest is in <mycss>metamaterials</mycss> and general <mycss>wave physics</mycss>.
 
