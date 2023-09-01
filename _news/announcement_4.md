@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I became URC Postdoctoral Fellow at HKU Mechanical Engineering, under the supervision of [Prof. Nicholas X. Fang](https://scholar.google.com.hk/citations?user=PcoqNjgAAAAJ&hl=en&oi=ao). :smile:
+I became Postdoctoral Fellow at HKU Mechanical Engineering, working with [Prof. Nicholas X. Fang](https://scholar.google.com.hk/citations?user=PcoqNjgAAAAJ&hl=en&oi=ao). :smile:
