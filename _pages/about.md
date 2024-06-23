@@ -17,7 +17,7 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-Dr. Sichao Qu is a Postdoctoral Fellow at the Department of Mechanical Engineering of The University of Hong Kong.
+Dr. Sichao Qu is a Research Assistant Professor at the Department of Mechanical Engineering of The University of Hong Kong.
 
 Sichao's main research interest is in <mycss>metamaterials</mycss> and general <mycss>wave physics</mycss>.
 
@@ -30,6 +30,6 @@ As for research taste, he is particularly fascinated by topics with following fe
 2. Advancing analytical/numerical methods,
 3. Holding strong application potential.
 
-He also serves as the reviewer of academic journals such as <em>[Physical Review B](https://journals.aps.org/prb/)</em>, <em>[Physical Reviw Applied](https://journals.aps.org/prapplied/)</em>, <em>[National Science Review](https://academic.oup.com/nsr)</em>, <em>[Applied Acoustics](https://www.sciencedirect.com/journal/applied-acoustics)</em>, etc.
+He also serves as the reviewer of academic journals such as <em>[Physical Review Letter](https://journals.aps.org/prl/)</em>,  <em>[Science Advances](https://www.science.org/journal/sciadv)</em>, <em>[Physical Review B](https://journals.aps.org/prb/)</em>, <em>[Physical Reviw Applied](https://journals.aps.org/prapplied/)</em>, <em>[National Science Review](https://academic.oup.com/nsr)</em>, <em>[Applied Acoustics](https://www.sciencedirect.com/journal/applied-acoustics)</em>, etc.
 
 

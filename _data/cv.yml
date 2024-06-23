@@ -11,9 +11,16 @@
 - title: Experience
   type: time_table
   contents:
+    - title: URC Research Assistant Professor
+      institution:  Mechanical Engineering, The University of Hong Kong (HKU), Hong Kong, China
+      year: 2024.6 - Current
+      description:
+        - <u>Lab:</u> Jockey-Club STEM Lab for Scalable and Sustainable Photonic Manufacturing
+        - <u>Advisor:</u> Prof. Nicholas X. Fang
+
     - title: URC Postdoctoral Fellow
       institution:  Mechanical Engineering, The University of Hong Kong (HKU), Hong Kong, China
-      year: 2023.2 - Current
+      year: 2023.2 - 2024.5
       description:
         - <u>Lab:</u> Jockey-Club STEM Lab for Scalable and Sustainable Photonic Manufacturing
         - <u>Advisor:</u> Prof. Nicholas X. Fang
@@ -22,8 +29,15 @@
       institution:  Physics, Hong Kong University of Science and Technology (HKUST), Hong Kong, China
       year: 2022.6 - 2023.1
       description:
-        - <u>Projects:</u> Joint industrial program with AMG company.
-        - <u>Advisor:</u> Prof. Ping Sheng and Dr. Min Yang
+        - <u>Projects:</u> Joint development programs with AMG company.
+        - <u>Advisor:</u> Prof. Ping Sheng
+    
+    - title: Industrial Research Collaboration
+      institution:  Data Technology Center, Acoustic Metamaterials Group, Hong Kong, China
+      year: 2022.6 - Current
+      description:
+        - <u>Lab:</u> Advanced facilities including anechoic chamber, impedance tube sets and various acoustic sensors.
+        - <u>Advisor:</u> Dr. Min Yang
         
 - title: Education
   type: time_table
