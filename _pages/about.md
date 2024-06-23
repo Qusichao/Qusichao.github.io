@@ -10,7 +10,9 @@ profile:
     <p>Department of Mechanical Engineering</p>
     <p>University of Hong Kong</p>
     <p>HW 324, Pokfulam Road, Hong Kong</p>
-    <p><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=XR-qItUmTL-rDcpNmUbPWzJ3Ypp-bBHDpnOl6OQuI2E"></script></p>
+    <div style="width: 150px; height: 150px;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=XR-qItUmTL-rDcpNmUbPWzJ3Ypp-bBHDpnOl6OQuI2E"></script>
+    </div>
 
 news: true  # includes a list of news items
 # latest_posts: false  # includes a list of the newest posts
