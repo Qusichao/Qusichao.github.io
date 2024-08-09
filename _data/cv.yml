@@ -11,20 +11,18 @@
 - title: Experience
   type: time_table
   contents:
-    - title: URC Research Assistant Professor
+    - title: Research Assistant Professor
       institution:  Mechanical Engineering, The University of Hong Kong (HKU), Hong Kong, China
-      year: 2024.6 - Current
+      year: 2024.7 - Current
       description:
         - <u>Lab:</u> Jockey-Club STEM Lab for Scalable and Sustainable Photonic Manufacturing
         - <u>Advisor:</u> Prof. Nicholas X. Fang
 
-    - title: URC Postdoctoral Fellow
-      institution:  Mechanical Engineering, The University of Hong Kong (HKU), Hong Kong, China
-      year: 2023.2 - 2024.5
-      description:
-        - <u>Lab:</u> Jockey-Club STEM Lab for Scalable and Sustainable Photonic Manufacturing
-        - <u>Advisor:</u> Prof. Nicholas X. Fang
-
+    - title: Postdoctoral Fellow
+      institution:  Same as above.
+      year: 2023.2 - 2024.6
+      description:  Same as above.
+      
     - title: Postdoctoral Fellow
       institution:  Physics, Hong Kong University of Science and Technology (HKUST), Hong Kong, China
       year: 2022.6 - 2023.1
