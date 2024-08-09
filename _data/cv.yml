@@ -19,9 +19,11 @@
         - <u>Advisor:</u> Prof. Nicholas X. Fang
 
     - title: Postdoctoral Fellow
-      institution:  Same as above.
+      institution:  Mechanical Engineering, The University of Hong Kong (HKU), Hong Kong, China
       year: 2023.2 - 2024.6
-      
+      description:
+        - <u>Lab & Advisor:</u> Same as above.
+
     - title: Postdoctoral Fellow
       institution:  Physics, Hong Kong University of Science and Technology (HKUST), Hong Kong, China
       year: 2022.6 - 2023.1
@@ -39,16 +41,16 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD (with Redbird Honor)
-      institution: Physics, Hong Kong University of Science and Technology (HKUST), Hong Kong, China
+    - title: PhD in Physics
+      institution: Hong Kong University of Science and Technology (HKUST), Hong Kong, China
       year: 2022
       description:
         - <u>Research Direction:</u> Wave Absorption Metamaterials
         - <u>Advisor:</u>  Prof. Ping Sheng
         - <u>Courses GPA:</u> 4.2/4.3
        
-    - title: Bachelor
-      institution: Physics, Nanjing University (NJU), Nanjing, China
+    - title: Bsc in Physics
+      institution: Nanjing University (NJU), Nanjing, China
       year: 2019
       description:
         - <u>Core Physics GPA:</u> 91.3/100
