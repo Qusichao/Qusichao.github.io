@@ -9,22 +9,24 @@
         class="responsive-img-srcset"
         media="(max-width: {{ i }}px)" 
         srcset="{{ img_path | relative_url }}-{{ i }}.webp"
-        type="image/webp"
       />
     {% endfor -%}
     {% endif %}
 
     <!-- Fallback to the original file -->
     <img 
-      src="{{ include.path | relative_url }}" 
-      class="img-fluid z-depth-1 rounded" 
-      style="max-width: auto; height: auto;" <!-- 确保图片自适应 -->
+      src="{{ include.path | relative_url }}"
+      {% if include.class %}class="{{ include.class }}"{% endif %}  
       {% if include.width %}width="{{ include.width }}"{% else %}width="auto"{% endif %} 
       {% if include.height %}height="{{ include.height }}"{% else %}height="auto"{% endif %} 
-      {% if include.alt %}alt="{{ include.alt }}"{% else %}alt="image"{% endif %} 
+      {% if include.min-width %}min-width="{{ include.min-width }}"{% endif %} 
+      {% if include.min-height %}min-height="{{ include.min-height }}"{% endif %} 
+      {% if include.max-width %}max-width="{{ include.max-width }}"{% endif %} 
+      {% if include.max-height %}height="{{ include.max-height }}"{% endif %} 
+      {% if include.alt %}alt="{{ include.alt }}"{% endif %} 
       {% if include.title %}title="{{ include.title }}"{% endif %} 
       {% if include.zoomable %}data-zoomable{% endif %}
-      onerror="this.onerror=null; this.style.display='none';"
+      onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
     />
 
   </picture>
