@@ -33,6 +33,6 @@ As for research taste, he is particularly fascinated by topics with following fe
 
 He also serves as the reviewer of academic journals such as <em>[Physical Review Letter](https://journals.aps.org/prl/)</em>,  <em>[Science Advances](https://www.science.org/journal/sciadv)</em>, <em>[Physical Review B](https://journals.aps.org/prb/)</em>, <em>[Physical Reviw Applied](https://journals.aps.org/prapplied/)</em>, <em>[National Science Review](https://academic.oup.com/nsr)</em>, <em>[Applied Acoustics](https://www.sciencedirect.com/journal/applied-acoustics)</em>, etc.
 
-<span style="color: #b03a2e;">I will be joining the Institute of Applied Physics and Materials Engineering at the University of Macau in January 2027. I am very excited to begin my new role as an Assistant Professor there!</span>
+<span style="color: #b03a2e;"><a href="/assets/pdf/IAPME_Recruitment.pdf" target="_blank" style="color: #b03a2e; text-decoration: underline;">I will be joining the Institute of Applied Physics and Materials Engineering at the University of Macau in January 2027. I am very excited to begin my new role as an Assistant Professor there!</a></span>
 
 
