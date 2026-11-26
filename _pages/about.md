@@ -20,15 +20,15 @@ social: true  # includes a list of social icons at the bottom of the page
 
 I am an incoming Assistant Professor at the Institute of Applied Physics and Materials Engineering (IAPME), University of Macau.
 
-My research aims to understand and extend the theoretical limits of <mycss>metamaterials</mycss>, develop methods that go beyond them, and connect these advances to practical industrial applications. My future research program is organized around four central questions:
+My research aims to understand and extend the theoretical limits of <mycss>acoustic metamaterials</mycss>, develop methods that go beyond them, and connect these advances to practical industrial applications. My future research program is organized around four central questions:
 
-1. **What is the physical bandwidth limit of meta-devices?** Meta-devices rely fundamentally on acoustic transmission, reflection, radiation, and three-dimensional scattering, from famous wonders such as invisibility cloaking and negative refraction to practical absorbers and emitters. I consider bandwidth a central problem, since it determines how broadly these functions can be realized.
+1. <mystrong>What is the physical bandwidth limit of meta-devices?</mystrong> Meta-devices rely fundamentally on acoustic transmission, reflection, radiation, and three-dimensional scattering, from famous wonders such as invisibility cloaking and negative refraction to practical absorbers and emitters. I consider bandwidth a central problem, since it determines how broadly these functions can be realized.
 
-2. **What are the generalized forms of this limit?** The classical bandwidth limit is derived for plane waves. Extending it to higher-order modes, three-dimensional spherical waves, complex scattering, and acoustic focusing lies beyond the reach of conventional models. Its connection with multiphysics coupling remains an open question for me.
+2. <mystrong>What are the generalized forms of this limit?</mystrong> The classical bandwidth limit is derived for plane waves. Extending it to higher-order modes, three-dimensional spherical waves, complex scattering, and acoustic focusing lies beyond the reach of conventional models. Its connection with multiphysics coupling remains an open question for me.
 
-3. **Can the limit be broken?** The classical bound rests on three assumptions: passivity, linearity, and time-invariance. My group and I challenge each one by making devices time-varying, nonlinear or active, and by coupling sound with electromagnetism and other physics, opening channels no single-physics device can reach.
+3. <mystrong>Can the limit be broken?</mystrong> The classical bound rests on three assumptions: passivity, linearity, and time-invariance. My group and I challenge each one by making devices time-varying, nonlinear or active, and by coupling sound with electromagnetism and other physics, opening channels no single-physics device can reach.
 
-4. **What can we do with it?** Tiny sensors with sharper sensitivity, efficient underwater transducers, and acoustic imaging of coastal seabeds and human tissue. The same ideas can calm ultrasonic cavitation, spot hidden targets, quiet ducts and car cabins, and carry messages through the ocean.
+4. <mystrong>What can we do with it?</mystrong> Tiny sensors with sharper sensitivity, efficient underwater transducers, and acoustic imaging of coastal seabeds and human tissue. The same ideas can calm ultrasonic cavitation, spot hidden targets, quiet ducts and car cabins, and carry messages through the ocean.
 
 I am particularly fascinated by topics with the following features. I hope to attract collaborators and students who share this taste, people on the same wavelength:
 
