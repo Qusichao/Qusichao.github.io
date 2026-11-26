@@ -7,32 +7,33 @@ profile:
   image: ququ1.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Department of Mechanical Engineering</p>
-    <p>University of Hong Kong</p>
-    <p>HW 324, Pokfulam Road, Hong Kong</p>
+    <p>Institute of Applied Physics and Materials Engineering</p>
+    <p>University of Macau</p>
+    <p>Avenida da Universidade, Taipa, Macau, China</p>
 
 
 news: true  # includes a list of news items
 # latest_posts: false  # includes a list of the newest posts
 # selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true  # includes a list of social icons at the bottom of the page
 ---
 
-Dr. Sichao Qu is a Research Assistant Professor at the Department of Mechanical Engineering of The University of Hong Kong.
+I am an incoming Assistant Professor at the Institute of Applied Physics and Materials Engineering (IAPME), University of Macau.
 
-Sichao's main research interest is in <mycss>metamaterials</mycss> and general <mycss>wave physics</mycss>.
+My research aims to understand and extend the theoretical limits of <mycss>metamaterials</mycss>, develop methods that go beyond them, and connect these advances to practical industrial applications. My future research program is organized around four central questions:
 
-His doctoral research focused on the study of wave-absorbing metamaterials in a variety of systems, including those involving electromagnetic waves, underwater acoustics, and airborne sound. His contributions have played a pivotal role in advancing the understanding of wave absorption phenomena, and they stand to significantly influence practical applications in the field. The significance of his work is underpinned by his pursuit of optimizing the performance of absorption devices, pushing them towards the very boundaries of physical constraints.
+1. **What is the physical bandwidth limit of meta-devices?** Meta-devices rely fundamentally on acoustic transmission, reflection, radiation, and three-dimensional scattering, from famous wonders such as invisibility cloaking and negative refraction to practical absorbers and emitters. I consider bandwidth a central problem, since it determines how broadly these functions can be realized.
 
-Currently, his research activities extend to the fundamental theory of modeling metamaterials and the applications of customizable metamaterials, with the focus on identifying structure-response relation and identifying underlying physical constraints. Meanwhile, he is keeping a close eye on the rapid recent developments in artificial intelligence which may bring new possibilities for the design of metamaterials. In the future, his research may expand to include Broadband Noise Control, Homogenization Theory of Metamaterials, Architectural Acoustics, Non-Hermitian Physics, Disordered and Inhomogeneous Media, and Ultrasonic Imaging.
+2. **What are the generalized forms of this limit?** The classical bandwidth limit is derived for plane waves. Extending it to higher-order modes, three-dimensional spherical waves, complex scattering, and acoustic focusing lies beyond the reach of conventional models. Its connection with multiphysics coupling remains an open question for me.
 
-As for research taste, he is particularly fascinated by topics with following features
-1. Renewing physical understanding,
-2. Advancing analytical/numerical methods,
-3. Holding strong application potential.
+3. **Can the limit be broken?** The classical bound rests on three assumptions: passivity, linearity, and time-invariance. My group and I challenge each one by making devices time-varying, nonlinear or active, and by coupling sound with electromagnetism and other physics, opening channels no single-physics device can reach.
 
-He also serves as the reviewer of academic journals such as <em>[Physical Review Letter](https://journals.aps.org/prl/)</em>,  <em>[Science Advances](https://www.science.org/journal/sciadv)</em>, <em>[Physical Review B](https://journals.aps.org/prb/)</em>, <em>[Physical Reviw Applied](https://journals.aps.org/prapplied/)</em>, <em>[National Science Review](https://academic.oup.com/nsr)</em>, <em>[Applied Acoustics](https://www.sciencedirect.com/journal/applied-acoustics)</em>, etc.
+4. **What can we do with it?** Tiny sensors with sharper sensitivity, efficient underwater transducers, and acoustic imaging of coastal seabeds and human tissue. The same ideas can calm ultrasonic cavitation, spot hidden targets, quiet ducts and car cabins, and carry messages through the ocean.
 
-<span style="color: #b03a2e;"><a href="/assets/pdf/IAPME_Recruitment.pdf" target="_blank" style="color: #b03a2e; text-decoration: underline;">I will be joining the Institute of Applied Physics and Materials Engineering at the University of Macau in January 2027. I am very excited to begin my new role as an Assistant Professor there!</a></span>
+I am particularly fascinated by topics with the following features. I hope to attract collaborators and students who share this taste, people on the same wavelength:
 
+- Renewing physical understanding
+- Advancing analytical/numerical methods
+- Holding strong application potential
 
+I also serve as a reviewer for academic journals such as [Physical Review Letters](https://journals.aps.org/prl/), [Science Advances](https://www.science.org/journal/sciadv), [Physical Review B](https://journals.aps.org/prb/), [Physical Review Applied](https://journals.aps.org/prapplied/), [The Journal of the Acoustical Society of America](https://pubs.aip.org/asa/jasa), and [Journal of Sound and Vibration](https://www.sciencedirect.com/journal/journal-of-sound-and-vibration), and as an Early Career Editorial Advisory Member of [APS Open Science](https://journals.aps.org/aposs/).
