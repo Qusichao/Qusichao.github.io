@@ -590,8 +590,15 @@ footer.sticky-bottom {
     border-top: 1px solid #3b30307d;
     padding-top: 1rem;
     margin-top: 2rem;
-    margin-bottom: -2rem;
-    text-align: right;
+    margin-bottom: 0.75rem;
+    text-align: left;
+  }
+
+  html[data-theme='dark'] & {
+    h2.bibliography {
+      color: rgba(255, 255, 255, 0.55);
+      border-top-color: rgba(255, 255, 255, 0.22);
+    }
   }
 
   ol.bibliography {
@@ -635,6 +642,31 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
+
+        &::before {
+          content: "\2022";
+          color: var(--global-theme-color);
+          font-weight: bold;
+          margin-right: 0.5rem;
+        }
+      }
+
+      .journal-link {
+        color: #1c5fa8;
+        text-decoration: none;
+
+        &:hover {
+          color: #0d3d73;
+          text-decoration: underline;
+        }
+
+        html[data-theme='dark'] & {
+          color: #7cc4ff;
+
+          &:hover {
+            color: #b3dcff;
+          }
+        }
       }
 
       .author {
